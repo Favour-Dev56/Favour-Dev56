@@ -6,7 +6,7 @@ Front-End Developer and Mobile App Developer
 
 I am an experienced Front End Developer with over 2 years in blending art of design with skill of programming to deliver engaging user experience through efficient website development, proactive feature optimization, and relentless debugging.
 
-* 🌍  I'm based in Benin, Nigeria
+* 🌍  I'm based in Benin, Nigeria.
 * 🖥️  See my portfolio at [favour-portfolio.netlify.app](http://favour-portfolio.netlify.app)
 * ✉️  You can contact me at [taiwofavour444@gmail.com](mailto:taiwofavour444@gmail.com)
 * 🧠  I'm learning JavaScript
